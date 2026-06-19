@@ -1,0 +1,2 @@
+# NyxWC
+Nyx Wayland Compositor
