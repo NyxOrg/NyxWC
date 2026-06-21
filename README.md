@@ -1,2 +1,3 @@
 # NyxWC
-Nyx Wayland Compositor                                      Draws its power from darkness and from Ruby.
+Nyx Wayland Compositor                                      
+Draws its power from darkness and from Ruby.
